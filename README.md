@@ -1,5 +1,8 @@
 # AssetTracker
 An inventory system that will help you keep track of all purchased equipment.
+![image](https://github.com/rojayachase/AssetTrackerInventory/assets/54439866/c381b009-e543-4b68-a7d9-70acd98102b3)
+
+
 Wireframes below:
 ![5](https://github.com/rojayachase/AssetTracker/assets/54439866/4caa33f3-6f59-491b-b69c-a4446a38714c)
 ![4](https://github.com/rojayachase/AssetTracker/assets/54439866/e3cf5c32-e02c-4991-9aa2-2bc24ebe3227)
